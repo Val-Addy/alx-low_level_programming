@@ -1,1 +1,1 @@
-This is about Singly
+this is about singly
